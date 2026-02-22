@@ -1,4 +1,4 @@
-# Hi, I'm Hussah! 👋 
+# Hi, I'm Hussa! 👋 
 ### Cybersecurity Specialist | AI Researcher | Visual Designer
 
 - 🎓 **Education:** Pursuing a Bachelor's in Cybersecurity at Onaizah Colleges.
