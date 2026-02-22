@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hussah! 👋 
+### Cybersecurity Specialist | AI Researcher | Visual Designer
 
-<!--
-**Hussah2002/hussah2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Education:** Pursuing a Bachelor's in Cybersecurity at Onaizah Colleges.
+- 🛡️ **Interests:** AI Security, Deepfake Detection, and Digital Forensics.
+- 💻 **Tech Stack:** Java, PHP, SQL, and Python.
+- 🎨 **Creative Side:** Founder of "Al Fakhama" (n13_ii) for Digital Design.
 
-Here are some ideas to get you started:
+---
+### 📁 Featured Projects:
+- **[Locker System](https://github.com/Hussah2002/Locker)** (✅ Completed)
+- **AI-Based Deepfake Detection** (🚧 In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hussa-almusayab)
