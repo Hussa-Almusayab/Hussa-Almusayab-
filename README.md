@@ -1,4 +1,4 @@
-# Hi, I'm Hussah Al-Musaib! 👋 
+# Hi, I'm Hussah Al-Musayab!  
 ### Cybersecurity Specialist | AI Researcher | Full-Stack Developer | Visual Designer
 
 ---
