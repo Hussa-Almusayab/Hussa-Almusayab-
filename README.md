@@ -8,7 +8,7 @@
 
 ---
 ### 📁 Featured Projects:
-- **[Locker System](https://github.com/Hussah2002/Locker)** (✅ Completed)
+- **[Locker System](https://drive.google.com/drive/folders/1ouwaOq_wzN9tgannzHI-eBwmwbBH0wao)** (✅ Completed)
 - **AI-Based Deepfake Detection** (🚧 In Progress)
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hussa-almusayab)
