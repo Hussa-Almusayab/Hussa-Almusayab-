@@ -8,7 +8,7 @@
 - 💼 **Professional Experience:** IT & Technical Training Intern at **King Fahad Medical City (KFMC)**.
 - 🛡️ **Research Area:** Deep Learning for AI-Based Deepfake Detection (Currently developing models for FF++ and Celeb-DF datasets).
 - 🌟 **Volunteering:** **85 Certified Hours** in Digital Transformation, Innovation, and Community Leadership.
-- 🎨 **Creative Entrepreneurship:** Founder of **Al Fakhama (n13_ii)**, a specialized Digital Design business.
+- 🎨 **Creative Entrepreneurship:** Founder of **Al Fakhamah (n13_ii)**, a specialized Digital Design business.
 
 ---
 
