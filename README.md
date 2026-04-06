@@ -16,4 +16,4 @@ I am a Cybersecurity enthusiast and AI Researcher dedicated to building secure d
 * **Creative:** Adobe Photoshop, Motion Graphics, UI/UX Design.
 
 ### 📬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/hussa-almusayab) | [Email](mailto:h.fahad.1423@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hussa-almusayab) | [Email](mailto:h.fahad.1423@gmail.com) | [X](https://x.com/hussasecurecode)
