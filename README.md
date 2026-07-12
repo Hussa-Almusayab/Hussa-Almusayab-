@@ -1,4 +1,4 @@
-# Hi there, I'm Hussa Al-Musayab 👋
+# Hi there, I'm Hussa Al-Musayab 
 
 ### 🛡️ Cybersecurity Engineer | 🤖 AI Researcher | 💻 Software Developer
 
@@ -7,7 +7,7 @@ I am a Cybersecurity enthusiast and AI Researcher dedicated to building secure d
 - 🔭 **Current Focus:** Deepfake Detection using AI (Deep Learning).
 - 🎓 **Education:** Bachelor in Cybersecurity (Onaizah Colleges) | Associate in Computer Programming.
 - 💼 **Experience:** IT & Technical training at King Fahad Medical City (KFMC).
-- 🎨 **Entrepreneurship:** Founder of "Al-Fakhamah" for Visual Identity & Motion Graphics.
+
 
 ### 🛠️ Technical Toolbox
 * **Security:** Network Security, Cryptology, Malware Analysis.
