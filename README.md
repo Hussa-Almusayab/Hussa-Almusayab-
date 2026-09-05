@@ -1,19 +1,27 @@
-# Hi there, I'm Hussa Al-Musayab 
+# Hi there, I'm Hussa Al-Musayab 👋🏻
 
-### 🛡️ Cybersecurity Engineer | 🤖 AI Researcher | 💻 Software Developer
+### 🛡️ Cybersecurity Specialist | 🤖 AI Researcher | 💻 Software Developer
 
-I am a Cybersecurity enthusiast and AI Researcher dedicated to building secure digital environments. With a strong background in **Software Programming** and **Visual Design**, I bridge the gap between technical security and intuitive user experiences.
+I am a Cybersecurity professional and AI researcher dedicated to building resilient and secure digital environments. With a strong foundation in **Software Development** and **Computer Programming**, I bridge the gap between secure code architecture, vulnerability mitigation, and defensive cybersecurity operations.
 
-- 🔭 **Current Focus:** Deepfake Detection using AI (Deep Learning).
-- 🎓 **Education:** Bachelor in Cybersecurity (Onaizah Colleges) | Associate in Computer Programming.
-- 💼 **Experience:** IT & Technical training at King Fahad Medical City (KFMC).
+* 🔭 **Current Focus:** Deepfake Detection using Deep Learning & AI Security.
+* 🎓 **Education:** 
+  * Bachelor in Cybersecurity (Onaizah Colleges)
+  * Associate Diploma in Computer Software / Programming
+* 💼 **Experience:**
+  * **Cybersecurity Intern** at Imam Abdulrahman Bin Faisal University (IAU)
+  * **IT & Technical Training Intern** at King Fahad Medical City (KFMC)
 
+---
 
 ### 🛠️ Technical Toolbox
-* **Security:** Network Security, Cryptology, Malware Analysis.
-* **AI & Data:** Python, Streamlit, Deepfake Detection Models.
-* **Development:** Java, PHP, SQL, HTML/CSS.
-* **Creative:** Adobe Photoshop, Motion Graphics, UI/UX Design.
+
+* 🔐 **Security:** Network Security, Application Security, Vulnerability Assessment, Cryptography, Malware Analysis.
+* 🤖 **AI & Data:** Python, Streamlit, Deepfake Detection Models, Machine Learning.
+* 💻 **Development:** C#, ASP.NET, Java, PHP, SQL, HTML/CSS.
+
+---
 
 ### 📬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/hussa-almusayab) | [Email](mailto:h.fahad.1423@gmail.com) | [X](https://x.com/hussasecurecode)
+
+[LinkedIn](https://www.linkedin.com/in/hussa-almusayab) | [Email](mailto:h.fahad.1423@gmail.com) | [X](https://x.com/HussaSecureCode)
